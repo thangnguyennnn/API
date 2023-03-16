@@ -1,0 +1,15 @@
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\bin\Debug\net6.0\DataAcess.deps.json
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\bin\Debug\net6.0\DataAcess.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\bin\Debug\net6.0\DataAcess.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\bin\Debug\net6.0\BusinessObjects.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\bin\Debug\net6.0\BusinessObjects.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.csproj.AssemblyReference.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.AssemblyInfoInputs.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.AssemblyInfo.cs
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.csproj.CopyComplete
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\refint\DataAcess.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\DataAcess.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\DataAcess\obj\Debug\net6.0\ref\DataAcess.dll

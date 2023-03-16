@@ -1,0 +1,17 @@
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\DataAcess.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\DataAcess.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\Repositories\obj\Debug\net6.0\ref\Repositories.dll

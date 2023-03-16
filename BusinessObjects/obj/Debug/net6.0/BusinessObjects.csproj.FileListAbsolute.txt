@@ -1,0 +1,14 @@
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\FPTU\SP23\PRU\Code\Project_PRN_SP2023\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
