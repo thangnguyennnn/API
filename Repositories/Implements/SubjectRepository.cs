@@ -13,6 +13,10 @@ namespace Repositories
     {
         SubjectDAO subjectDAO = new SubjectDAO();
 
+        public List<SubjectDTO> GetSubjectsByDocId(int docId)
+        {
+            return subjectDAO.GetSubjectsByDocId(docId).Select(m => Mapper.mapToDTO(m)).ToList();
+        }
         public void Add(SubjectDTO subjectDTO)
         {
             subjectDAO.Add(Mapper.mapToEntity(subjectDTO));

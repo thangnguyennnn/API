@@ -42,6 +42,40 @@ namespace StoreAPI.Controllers
             }
         }
 
+        [HttpGet("GetDetailDocs")]
+        public IActionResult GetDetailDocs(int docId)
+        {
+            try
+            {
+                IDocumentRepository documentRepository = new DocumentRepository();
+                List<DocumentDTO> li = new List<DocumentDTO>();
+                li = documentRepository.GetDocumentsByUserId(docId);
+                return Ok(li);
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpGet("DeleteDoc")]
+        public IActionResult DeleteDoc(int docId)
+        {
+            try
+            {
+                IDocumentRepository documentRepository = new DocumentRepository();
+                
+                documentRepository.Delete(docId);
+                return Ok(docId);
+
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
         [HttpGet("GetDocList")]
         public IActionResult GetDocList()
         {

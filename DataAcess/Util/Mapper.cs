@@ -43,7 +43,8 @@ namespace DataAcess.Util
                     SubjectId = quiz.SubjectId,
                     QuizName = quiz.QuizName,
                     DataCreate = quiz.DataCreate,
-                    NumberOfQuestion = quiz.NumberOfQuestion
+                    NumberOfQuestion = quiz.NumberOfQuestion,
+
                 };
                 return quizDTO;
             }
@@ -65,6 +66,7 @@ namespace DataAcess.Util
                     NumberOfQuiz = subject.NumberOfQuiz,
                     SubjectName= subject.SubjectName,
                     DataCreate= subject.DataCreate,
+                    DocumentId = subject.DocumentId,
                 };
                 return subjectDTO;
             }
@@ -188,7 +190,8 @@ namespace DataAcess.Util
                     UserId = subjectDTO.UserId,
                     NumberOfQuiz = subjectDTO.NumberOfQuiz,
                     DataCreate= subjectDTO.DataCreate,
-                    SubjectName= subjectDTO.SubjectName
+                    SubjectName= subjectDTO.SubjectName,
+                    DocumentId= subjectDTO.DocumentId,
                 };
                 return subject;
             }

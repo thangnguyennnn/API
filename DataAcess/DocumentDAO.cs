@@ -65,6 +65,27 @@ namespace DataAcess
             return listDocuments;
         }
 
+        public List<Document> GetDocumentsByUserId(int id)
+        {
+            var listDocuments = new List<Document>();
+            var listDocumentsRet = new List<Document>();
+            try
+            {
+                using (var context = new DBContext())
+                {
+                    listDocuments = context.Documents.ToList();
+                }
+                listDocumentsRet = (from doc in listDocuments
+                                    where doc.UserId == id
+                                    select doc).ToList();
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+            return listDocumentsRet;
+        }
+
         public void Add(Document category)
         {
             try

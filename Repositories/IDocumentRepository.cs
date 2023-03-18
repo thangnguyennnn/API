@@ -10,6 +10,7 @@ namespace Repositories
     public interface IDocumentRepository
     {
         List<DocumentDTO> GetDocs(int id);
+        public List<DocumentDTO> GetDocumentsByUserId(int id);
         DocumentDTO GetDocument(int id);
         List<DocumentDTO> GetDocuments();
         void Add(DocumentDTO documentDTO);

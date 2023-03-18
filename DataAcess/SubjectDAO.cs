@@ -48,6 +48,27 @@ namespace DataAcess
             return listSubjectsRet;
         }
 
+        public List<Subject> GetSubjectsByDocId(int docId)
+        {
+            var listSubjects = new List<Subject>();
+            var listSubjectsRet = new List<Subject>();
+            try
+            {
+                using (var context = new DBContext())
+                {
+                    listSubjects = context.Subjects.ToList();
+                }
+                listSubjectsRet = (from subject in listSubjects
+                                   where subject.DocumentId == docId
+                                   select subject).ToList();
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+            return listSubjectsRet;
+        }
+
         public void Add(Subject category)
         {
             try

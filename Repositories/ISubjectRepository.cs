@@ -1,4 +1,5 @@
-﻿using DataAcess.DTO;
+﻿using BusinessObjects.Models;
+using DataAcess.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace Repositories
 {
     public interface ISubjectRepository
     {
+        public List<SubjectDTO> GetSubjectsByDocId(int docId);
         SubjectDTO GetSubject(int id);
         List<SubjectDTO> GetSubjects(int id);
         void Add(SubjectDTO subjectDTO);

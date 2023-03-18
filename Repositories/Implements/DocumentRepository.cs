@@ -7,7 +7,10 @@ namespace Repositories
     public class DocumentRepository : IDocumentRepository
     {
         DocumentDAO documentDAO = new DocumentDAO();
-
+        public List<DocumentDTO> GetDocumentsByUserId(int id)
+        {
+            return documentDAO.GetDocumentsByUserId(id).Select(m => Mapper.mapToDTO(m)).ToList();
+        }
         public void Add(DocumentDTO documentDTO)
         {
             documentDAO.Add(Mapper.mapToEntity(documentDTO));
